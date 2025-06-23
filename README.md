@@ -1,4 +1,4 @@
-# 🤖 CHAT_BOT
+# 🤖 CHAT_BOT (GUI)
 
 A powerful, flexible, and intelligent chatbot built with **C#** and **Python**.  
 Seamlessly integrate advanced conversational AI into your applications, automate customer support, or create your own virtual assistant!
